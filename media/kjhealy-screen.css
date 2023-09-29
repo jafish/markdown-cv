@@ -56,7 +56,7 @@ body {
 	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: "Equity Text B",sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 60%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: "Triplicate T4C",monospace,sans-serif;
 	color: #aaa;
 }
 
@@ -114,7 +114,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: "Councourse T4",Verdana,sans-serif;
 	width: 65%;
 }
 
